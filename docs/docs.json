@@ -1,0 +1,8 @@
+{
+	"version":"1.0.0",
+	"title":"MCW1001a",
+	"copyright":"Zerynth Team",
+	"files":[
+		["MCW1001A","mcw1001a.py"]
+	]
+}
