@@ -1,0 +1,14 @@
+---
+description: Driver for Microchip MCW1001A coupled with MRF24WB0
+fullname: lib.microchip.mcw1001a
+info:
+    chip_manufacturer: Microchip
+    chip_name: MCW1001A
+    name: Wi-Fi Driver
+    type: Connectivity
+keywords:
+- wireless
+- wifi
+- microchip
+title: Microchip MCW1001A wifi solution
+...
